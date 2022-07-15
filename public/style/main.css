@@ -1,7 +1,7 @@
 html, body
 {
 	background-color: var(--bg);
-	color: var(--content);
+	color: var(--primary);
 }
 
 body
@@ -61,7 +61,7 @@ nav
 	align-self: stretch;
 	background-color: var(--hl);
 	border-bottom: 1px solid var(--cbg);
-	color: var(--content);
+	color: var(--primary);
 	flex: 0 1 auto;
 	order: 1;
 }
@@ -139,7 +139,7 @@ footer > ul > li+li
 	align-self: auto;
 	background-color: var(--hl);
 	border: 1px solid var(--cbg);
-	color: var(--content);
+	color: var(--primary);
 	flex: 0 1 20%;
 	line-height: 25px;
 	margin: 25px;
@@ -256,7 +256,7 @@ footer > ul > li+li
 {
 	background-color: var(--hl);
 	border: 1px solid var(--cbg);
-	color: var(--content);
+	color: var(--primary);
 	list-style-type: none;
 	margin: 0 0 1.5em;
 	padding: 15px 20px 20px;
@@ -299,7 +299,7 @@ footer > ul > li+li
 	align-items: center;
 	background-color: var(--hl);
 	border: 1px solid var(--cbg);
-	color: var(--content);
+	color: var(--primary);
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
