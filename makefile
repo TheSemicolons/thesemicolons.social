@@ -21,6 +21,9 @@ VERSION   = 0.1
 
 all: install
 
+clean:
+	find public -type f -name "*.gz" -exec rm {} \;
+
 install:
 	find public -type f -exec gzip -k {} \;
 	openrsync -av --delete public/ web0.thesemicolons.social:/home/www/htdocs/thesemicolons.social
