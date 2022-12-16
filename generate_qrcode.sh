@@ -7,7 +7,6 @@ qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_instagram.svg https://thesemicolons.s
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_mastodon.svg https://thesemicolons.social/mastodon
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_patreon.svg https://thesemicolons.social/patreon
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_social.svg https://thesemicolons.social
-qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_steam.svg https://thesemicolons.social/steam
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_support.svg https://thesemicolons.social/support
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_throne.svg https://thesemicolons.social/throne
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_twitch.svg https://thesemicolons.social/twitch
