@@ -1,0 +1,26 @@
+{
+	"baseURL": "https://thesemicolons.social/",
+	"canonifyURLs": true,
+	"copyright": "2022 The Semicolons",
+	"languageCode": "en-us",
+	"theme": "solarized",
+	"title": "The Semicolons",
+
+	"params": {
+		"author": "The Semicolons",
+		"description": "The Semicolons Socials and Links",
+		"keywords": "links,semicolons,socials,thesemicolons",
+		"subtitle": "Socials and Links"
+	},
+	"menu": {
+		"main": [
+		]
+	},
+	"markup": {
+		"goldmark": {
+			"renderer": {
+				"unsafe": true
+			}
+		}
+	}
+}

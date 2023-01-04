@@ -19,11 +19,14 @@
 
 VERSION   = 0.1
 
-all: install
+all: public
+
+install: public
+	openrsync -av --delete public/ web0.thesemicolons.social:/home/www/htdocs/thesemicolons.social
+
+public:
+	hugo
+	find public -type f -exec gzip -fk {} \;
 
 clean:
-	find public -type f -name "*.gz" -exec rm {} \;
-
-install:
-	find public -type f -exec gzip -fk {} \;
-	openrsync -av --delete public/ web0.thesemicolons.social:/home/www/htdocs/thesemicolons.social
+	rm -Rf public resources
