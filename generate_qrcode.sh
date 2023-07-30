@@ -1,9 +1,10 @@
 #!/bin/sh
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_live.svg https://thesemicolons.com
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_discord.svg https://thesemicolons.social/discord
-qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_fanhouse.svg https://thesemicolons.social/fanhouse
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_food.svg https://thesemicolons.social/food
+qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_infosec.svg https://thesemicolons.social/infosec
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_instagram.svg https://thesemicolons.social/instagram
+qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_kofi.svg https://thesemicolons.social/kofi
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_mastodon.svg https://thesemicolons.social/mastodon
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_patreon.svg https://thesemicolons.social/patreon
 qrencode -s 5 -l H -m 5 -d 96 -t SVG -o qr_social.svg https://thesemicolons.social
