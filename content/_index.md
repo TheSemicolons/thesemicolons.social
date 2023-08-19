@@ -14,8 +14,6 @@
 [Infosec](https://thesemicolons.social/infosec)
 - ![QR Code Instagram](/images/qr_instagram.svg)  
 [Instagram](https://thesemicolons.social/instagram)
-- ![QR Code Ko-Fi](/images/qr_kofi.svg)  
-[Ko-Fi](https://thesemicolons.social/kofi)
 - ![QR Code Live](/images/qr_live.svg)  
 [Live](https://thesemicolons.social/live)
 - ![QR Code Mastodon](/images/qr_mastodon.svg)  
