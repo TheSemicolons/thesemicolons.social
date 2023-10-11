@@ -39,12 +39,6 @@
 - ![QR Code Throne](/images/qr_throne.svg)  
 [Throne](https://thesemicolons.social/throne)
 
-- ![QR Code Patreon](/images/qr_patreon.svg)  
-[Patreon](https://thesemicolons.social/patreon)
-
-- ![QR Code Social](/images/qr_social.svg)  
-[Social](https://thesemicolons.social/social)
-
 - ![QR Code Website](/images/qr_website.svg)  
 [Website](https://thesemicolons.social/website)
 
@@ -53,3 +47,9 @@
 
 - ![QR Code Steam](/images/qr_steam.svg)  
 [Steam](https://thesemicolons.social/steam)
+
+- ![QR Code Socials](/images/qr_social.svg)  
+[Socials](https://thesemicolons.social/social)
+
+- ![QR Code GitLab](/images/qr_gitlab.svg)  
+[GitLab](https://thesemicolons.social/gitlab)
