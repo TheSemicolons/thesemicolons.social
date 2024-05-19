@@ -12,8 +12,8 @@
 - ![QR Code Discord](/images/qr_discord.svg)  
  [Discord](https://thesemicolons.social/discord)
 
-- ![QR Code Twitter](/images/qr_twitter.svg)  
-[Twitter](https://thesemicolons.social/twitter)
+- ![QR Code Twitter](/images/qr_x.svg)  
+[X](https://thesemicolons.social/x)
 
 - ![QR Code Instagram](/images/qr_instagram.svg)  
 [Instagram](https://thesemicolons.social/instagram)
