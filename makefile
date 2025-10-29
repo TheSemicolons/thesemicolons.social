@@ -26,7 +26,8 @@ install: build
 
 build:
 	hugo
+	./generate_qrcode.sh
 	find public -type f -exec gzip -fk {} \;
 
 clean:
-	rm -Rf public resources
+	rm -Rf public assets/images/*

@@ -6,50 +6,38 @@
 }
 ---
 
-- ![QR Code Twitch](/images/qr_twitch.svg)  
-[Twitch](https://thesemicolons.social/twitch)
+- ![QR Code Discord](/images/qr_discord.SVG)  
+[Discord](https://thesemicolons.social/discord)
 
-- ![QR Code Discord](/images/qr_discord.svg)  
- [Discord](https://thesemicolons.social/discord)
-
-- ![QR Code Twitter](/images/qr_x.svg)  
-[X](https://thesemicolons.social/x)
-
-- ![QR Code Instagram](/images/qr_instagram.svg)  
-[Instagram](https://thesemicolons.social/instagram)
-
-- ![QR Code Live](/images/qr_live.svg)  
-[Live](https://thesemicolons.social/live)
-
-- ![QR Code Bluesky](/images/qr_bluesky.svg)  
-[Bluesky](https://thesemicolons.social/bluesky)
-
-- ![QR Code Mastodon](/images/qr_mastodon.svg)  
-[Mastadon](https://thesemicolons.social/mastodon)
-
-- ![QR Code Infosec](/images/qr_infosec.svg)  
-[Infosec](https://thesemicolons.social/infosec)
-
-- ![QR Code Support](/images/qr_support.svg)  
-[Support](https://thesemicolons.social/support)
-
-- ![QR Code Food](/images/qr_food.svg)  
+- ![QR Code Food](/images/qr_food.SVG)  
 [Food](https://thesemicolons.social/food)
 
-- ![QR Code Throne](/images/qr_throne.svg)  
+- ![QR Code GitLab](/images/qr_gitlab.SVG)  
+[GitLab](https://thesemicolons.social/gitlab)
+
+- ![QR Code Instagram](/images/qr_instagram.SVG)  
+[Instagram](https://thesemicolons.social/instagram)
+
+- ![QR Code Patreon](/images/qr_patreon.SVG)  
+[Live](https://thesemicolons.social/patreon)
+
+- ![QR Code Socials](/images/qr_socials.SVG)  
+[Socials](https://thesemicolons.social/socials)
+
+- ![QR Code Support](/images/qr_support.SVG)  
+[Support](https://thesemicolons.social/support)
+
+- ![QR Code Throne](/images/qr_throne.SVG)  
 [Throne](https://thesemicolons.social/throne)
 
-- ![QR Code Website](/images/qr_website.svg)  
+- ![QR Code Twitch](/images/qr_twitch.SVG)  
+[Twitch](https://thesemicolons.social/twitch)
+
+- ![QR Code Twitter](/images/qr_x.SVG)  
+[X](https://thesemicolons.social/x)
+
+- ![QR Code Website](/images/qr_website.SVG)  
 [Website](https://thesemicolons.social/website)
 
-- ![QR Code YouTube](/images/qr_youtube.svg)  
+- ![QR Code YouTube](/images/qr_youtube.SVG)  
 [YouTube](https://thesemicolons.social/youtube)
-
-- ![QR Code Steam](/images/qr_steam.svg)  
-[Steam](https://thesemicolons.social/steam)
-
-- ![QR Code Socials](/images/qr_social.svg)  
-[Socials](https://thesemicolons.social/social)
-
-- ![QR Code GitLab](/images/qr_gitlab.svg)  
-[GitLab](https://thesemicolons.social/gitlab)
